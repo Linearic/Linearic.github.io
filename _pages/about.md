@@ -12,7 +12,7 @@ I am a fresh graduate from the [Business Analytics Centre (BAC)](https://msba.nu
 
 You can find my resume here: [QIAN Wuji's Resume](../assets/Resume_Qian_Wuji.pdf)
 
-Feel free to contact me via any following methods: [Email](mailto:qianwuji@hotmail.com) / [Github](https://github.com/Linearic) / [Wechat](../images/wechat.jpg)
+Feel free to contact me via any following methods: [Email](mailto:qianwuji@hotmail.com) / [Github](https://github.com/Linearic) / [LinkedIn](https://www.linkedin.com/in/wujiqian) / [Wechat](../images/wechat.jpg)
 
 Research Interests
 ======
