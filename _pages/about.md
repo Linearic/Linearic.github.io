@@ -19,6 +19,7 @@ Research Interests
 My research interests lie at the intersection of finance and technology, including:
 - Agent-Based Modelling
 - Artificial Intelligence
+- Behavioral Science
 - Complexity Systems
 - Machine Learning
 - Quantitative Finance
@@ -30,7 +31,7 @@ Professional Qualifications
 - [**FRM Part II**](../assets/Exam_Results_Letter_May2025.pdf): Passed (Currently accruing work experience to obtain the **FRM designation**)
 
 
-Career Goal
+Career Expectation
 ======
 
 I am actively seeking opportunities in the **financial sector**, with a keen interest in both **buy-side** and **sell-side** roles. I am open to positions that allow me to apply my analytical skills to financial modeling, risk management, and investment analysis.
