@@ -38,10 +38,6 @@ Career Goal
 I am actively seeking opportunities in the **financial sector**, with a keen interest in both **buy-side** and **sell-side** roles. I am open to positions that allow me to apply my analytical skills to financial modeling, risk management, and investment analysis.
 
 
-Publications
-======
-[1] [Algorithm Aversion in the Era of Artificial Intelligence: Research Framework and Future Agenda](../assets/thesis_1.pdf)
-
 
 
 
