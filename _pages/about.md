@@ -28,8 +28,8 @@ My research interests lie at the intersection of finance and technology, includi
 Professional Qualifications
 ======
 
-- [**CFA Level I**](../assets/CFA_L1_Results): Passed (All A's passed, 10% globally)
-- [**FRM Part II**](../assets/Exam_Results_Letter_May2025): Passed (Currently accruing work experience to obtain the **FRM designation**)
+- [**CFA Level I**](../assets/CFA_L1_Results.pdf): Passed (All A's passed, 10% globally)
+- [**FRM Part II**](../assets/Exam_Results_Letter_May2025.pdf): Passed (Currently accruing work experience to obtain the **FRM designation**)
 
 
 Career Goal
@@ -40,7 +40,7 @@ I am actively seeking opportunities in the **financial sector**, with a keen int
 
 Publications
 ======
-[1] [Algorithm Aversion in the Era of Artificial Intelligence: Research Framework and Future Agenda](../assets/thesis_1)
+[1] [Algorithm Aversion in the Era of Artificial Intelligence: Research Framework and Future Agenda](../assets/thesis_1.pdf)
 
 
 
