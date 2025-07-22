@@ -12,7 +12,7 @@ I am a fresh graduate from the [Business Analytics Centre](https://msba.nus.edu.
 
 You can find my resume here: [QIAN Wuji's Resume](../assets/)
 
-[Email](mailto:qianwuji@hotmail.com) / [Github]()
+[Email](mailto:qianwuji@hotmail.com) / [Github](https://github.com/Linearic) / [Wechat](../images/wechat.jpg)
 
 Research Interests
 ======
@@ -23,7 +23,6 @@ My research interests lie at the intersection of finance and technology, includi
 - Complexity Systems
 - Machine Learning
 - Quantitative Finance
-
 
 
 Professional Qualifications
@@ -38,6 +37,10 @@ Career Goal
 
 I am actively seeking opportunities in the **financial sector**, with a keen interest in both **buy-side** and **sell-side** roles. I am open to positions that allow me to apply my analytical skills to financial modeling, risk management, and investment analysis.
 
+
+Publications
+======
+[1] [Algorithm Aversion in the Era of Artificial Intelligence: Research Framework and Future Agenda](../assets/thesis_1)
 
 
 
