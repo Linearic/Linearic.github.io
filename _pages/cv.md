@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Business Analytics, National University of Singapore, 2025
+* BMgt in Financial Management (Financial Engineering), Hunan University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Quantitative Trader (Research Assistant)
+  * Employer: Jasper Vault
+  * Type: Intern
+  * Period: Apr 2025 ~ Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fixed Income Analyst
+  * Employer: Bank of China
+  * Type: Intern
+  * Period: Jun 2023 ~ Apr 2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Financial Consulting (Strategy Advisory)
+  * Employer: KPMG
+  * Type: Intern
+  * Period: Jan 2023 ~ Feb 2023
+
+* Trust Business Personnel
+  * Employer: CITIC Trust
+  * Type: Intern
+  * Period: Jun 2022 ~ Sep 2022
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Python
+  * SQL
+  * NetLogo
+* Sports:
+  * Badminton
+  * Table Tennis
+  * Taekwondo
+  * Tennis
+  * Climbing
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+    
+Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Served as Undergraduate Deputy Leader in EQUIS Review for Hunan University
