@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fresh graduate from the [Business Analytics Centre](https://msba.nus.edu.sg), [National University of Singapore](https://nus.edu.sg). I was conferred the degree of Bachelor of Management with a specialization in Financial Management (Financial Engineering) by [Business School](https://ibschool-en.hnu.edu.cn/), [Hunan University](https://www-en.hnu.edu.cn/).
 
-You can find my resume here: [QIAN Wuji's Resume](../assets/)
+You can find my resume here: [QIAN Wuji's Resume](../assets/Resume_Qian_Wuji.pdf)
 
 [Email](mailto:qianwuji@hotmail.com) / [Github](https://github.com/Linearic) / [Wechat](../images/wechat.jpg)
 
